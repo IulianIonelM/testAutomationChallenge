@@ -8,7 +8,7 @@ public class CloseAllConnections {
 
     public static final Logger log = LoggerFactory.getLogger(CloseAllConnections.class);
 
-    public boolean closingBrowser (WebDriver driver) throws Exception{
+    public boolean closeBrowser(WebDriver driver) throws Exception{
         try {
             driver.close();
             driver.quit();
