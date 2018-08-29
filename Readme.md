@@ -49,10 +49,16 @@ STEPS:
 
 **Project Set-up IntelliJ**
 	1. Start new project	
+	
 	2. Setup project SDK and path to Java installation 
+	
 	3. JUnit add to pom.xml from [here](https://mvnrepository.com/artifact/junit/junit/4.12)
+	
 	4. Logs add to pom.xml from [here](https://mvnrepository.com/artifact/net.logstash.logback/logstash-logback-encoder/5.2)
+	
 	5. Selenium add to pom.xml from [here](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/3.14.0)
+	
+	
 	
 
 
