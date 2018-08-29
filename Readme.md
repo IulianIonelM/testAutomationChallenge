@@ -16,11 +16,11 @@ STEPS:
 
 **Downloads:**
 
-Download and install Java JDK  from [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
+	Download and install Java JDK  from [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
 
-Download and install intelliJ from [here](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC) 
+	Download and install intelliJ from [here](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC) 
 
-Add xPath Helper to chrome from Chrome Web Store (Restart Browser after adding) 
+	Add xPath Helper to chrome from Chrome Web Store (Restart Browser after adding) 
 	
 
 	
@@ -48,11 +48,11 @@ Add xPath Helper to chrome from Chrome Web Store (Restart Browser after adding)
 
 
 **Project Set-up IntelliJ**
-1. Start new project	
-2. Setup project SDK and path to Java installation 
-3. JUnit add to pom.xml from [here](https://mvnrepository.com/artifact/junit/junit/4.12)
-4. Logs add to pom.xml from [here](https://mvnrepository.com/artifact/net.logstash.logback/logstash-logback-encoder/5.2)
-5. Selenium add to pom.xml from [here](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/3.14.0)
+	1. Start new project	
+	2. Setup project SDK and path to Java installation 
+	3. JUnit add to pom.xml from [here](https://mvnrepository.com/artifact/junit/junit/4.12)
+	4. Logs add to pom.xml from [here](https://mvnrepository.com/artifact/net.logstash.logback/logstash-logback-encoder/5.2)
+	5. Selenium add to pom.xml from [here](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/3.14.0)
 	
 
 
