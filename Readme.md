@@ -17,19 +17,30 @@ STEPS:
 **Downloads:**
 
 Download and install Java JDK  from [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
+
 Download and install intelliJ from [here](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC) 
+
 Add xPath Helper to chrome from Chrome Web Store (Restart Browser after adding) 
 	
 
+	
 **Access add environment variables interface:** 
+
 	Open Windows Search interface and write ‘Environment Variables’
+	
 	Click ‘Edit the system environment variables’ button  
+	
 	Click ‘Environment Variables’ button  
 
+	
 
 **Add the following environment variables** 
+
 	JAVA_HOME   /  Value: address to the java installation. Example: C:\Program Files\Java\jdk1.8.0_171
 
+	
+	
+	
 **Add the following to ‘path’ variable**
 	%JAVA_HOME%\bin;
 
